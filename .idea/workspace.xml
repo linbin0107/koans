@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f8e53ef8-4740-4c3e-9d35-49e688fc5de9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutArithmeticOperators.java" afterPath="$PROJECT_DIR$/src/beginner/AboutArithmeticOperators.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutConditionals.java" afterPath="$PROJECT_DIR$/src/beginner/AboutConditionals.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutLoops.java" afterPath="$PROJECT_DIR$/src/beginner/AboutLoops.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutPrimitives.java" afterPath="$PROJECT_DIR$/src/beginner/AboutPrimitives.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutStrings.java" afterPath="$PROJECT_DIR$/src/beginner/AboutStrings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutCasting.java" afterPath="$PROJECT_DIR$/src/beginner/AboutCasting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutConstructors.java" afterPath="$PROJECT_DIR$/src/beginner/AboutConstructors.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutEnums.java" afterPath="$PROJECT_DIR$/src/beginner/AboutEnums.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutExceptions.java" afterPath="$PROJECT_DIR$/src/beginner/AboutExceptions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutInheritance.java" afterPath="$PROJECT_DIR$/src/beginner/AboutInheritance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutObjects.java" afterPath="$PROJECT_DIR$/src/beginner/AboutObjects.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,47 +21,37 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AboutPrimitives.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/beginner/AboutPrimitives.java">
+      <file leaf-file-name="AboutConstructors.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/beginner/AboutConstructors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1589">
-              <caret line="202" column="43" lean-forward="true" selection-start-line="202" selection-start-column="43" selection-end-line="202" selection-end-column="43" />
+            <state relative-caret-position="369">
+              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding>
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#897#898#0" expanded="true" />
-                <element signature="e#995#996#0" expanded="true" />
-                <element signature="e#1058#1059#0" expanded="true" />
-                <element signature="e#1111#1112#0" expanded="true" />
-                <element signature="e#1483#1484#0" expanded="true" />
-                <element signature="e#1526#1527#0" expanded="true" />
-                <element signature="e#2141#2142#0" expanded="true" />
-                <element signature="e#2185#2186#0" expanded="true" />
-                <element signature="e#2248#2249#0" expanded="true" />
-                <element signature="e#2307#2308#0" expanded="true" />
-                <element signature="e#2773#2774#0" expanded="true" />
-                <element signature="e#2815#2816#0" expanded="true" />
-                <element signature="e#2878#2879#0" expanded="true" />
-                <element signature="e#2937#2938#0" expanded="true" />
-                <element signature="e#2998#2999#0" expanded="true" />
-                <element signature="e#3052#3053#0" expanded="true" />
-                <element signature="e#3518#3519#0" expanded="true" />
-                <element signature="e#3566#3567#0" expanded="true" />
-                <element signature="e#3627#3628#0" expanded="true" />
-                <element signature="e#3683#3684#0" expanded="true" />
-                <element signature="e#3772#3773#0" expanded="true" />
-                <element signature="e#3827#3828#0" expanded="true" />
-                <element signature="e#4413#4414#0" expanded="true" />
-                <element signature="e#4458#4459#0" expanded="true" />
-                <element signature="e#4524#4525#0" expanded="true" />
-                <element signature="e#4578#4579#0" expanded="true" />
-                <element signature="e#5190#5191#0" expanded="true" />
-                <element signature="e#5234#5235#0" expanded="true" />
-                <element signature="e#5277#5278#0" expanded="true" />
-                <element signature="e#5309#5310#0" expanded="true" />
-                <element signature="e#5353#5354#0" expanded="true" />
-                <element signature="e#5386#5387#0" expanded="true" />
-                <element signature="e#5465#5466#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#942#943#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AboutExceptions.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/beginner/AboutExceptions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="159" column="5" lean-forward="true" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
+              <folding>
+                <element signature="e#2944#2945#0" expanded="true" />
+                <element signature="e#2988#2989#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,12 +78,18 @@
         <option value="$PROJECT_DIR$/src/beginner/AboutConditionals.java" />
         <option value="$PROJECT_DIR$/src/beginner/AboutLoops.java" />
         <option value="$PROJECT_DIR$/src/beginner/AboutPrimitives.java" />
+        <option value="$PROJECT_DIR$/src/beginner/AboutObjects.java" />
+        <option value="$PROJECT_DIR$/src/beginner/AboutInheritance.java" />
+        <option value="$PROJECT_DIR$/src/beginner/AboutCasting.java" />
+        <option value="$PROJECT_DIR$/src/beginner/AboutConstructors.java" />
+        <option value="$PROJECT_DIR$/src/beginner/AboutEnums.java" />
+        <option value="$PROJECT_DIR$/src/beginner/AboutExceptions.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="190" />
-    <option name="y" value="134" />
+    <option name="x" value="1943" />
+    <option name="y" value="115" />
     <option name="width" value="1400" />
     <option name="height" value="888" />
   </component>
@@ -112,6 +109,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -158,9 +158,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -398,7 +395,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="190" y="134" width="1400" height="888" extended-state="0" />
+    <frame x="1943" y="115" width="1400" height="888" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -442,6 +439,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutPrimitives.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/beginner/AboutKoans.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -544,46 +549,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutCasting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="106" column="9" lean-forward="true" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
+          <folding>
+            <element signature="e#1146#1147#0" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutInheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="74" column="47" lean-forward="true" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+          <folding>
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="995">
+          <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+          <folding>
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#1126#1256#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
+            <element signature="e#1693#1703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/beginner/AboutPrimitives.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1589">
-          <caret line="202" column="43" lean-forward="true" selection-start-line="202" selection-start-column="43" selection-end-line="202" selection-end-column="43" />
+        <state relative-caret-position="240">
+          <caret line="148" column="9" lean-forward="true" selection-start-line="148" selection-start-column="9" selection-end-line="148" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutEnums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding>
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#897#898#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
-            <element signature="e#1058#1059#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1483#1484#0" expanded="true" />
-            <element signature="e#1526#1527#0" expanded="true" />
-            <element signature="e#2141#2142#0" expanded="true" />
-            <element signature="e#2185#2186#0" expanded="true" />
-            <element signature="e#2248#2249#0" expanded="true" />
-            <element signature="e#2307#2308#0" expanded="true" />
-            <element signature="e#2773#2774#0" expanded="true" />
-            <element signature="e#2815#2816#0" expanded="true" />
-            <element signature="e#2878#2879#0" expanded="true" />
-            <element signature="e#2937#2938#0" expanded="true" />
-            <element signature="e#2998#2999#0" expanded="true" />
-            <element signature="e#3052#3053#0" expanded="true" />
-            <element signature="e#3518#3519#0" expanded="true" />
-            <element signature="e#3566#3567#0" expanded="true" />
-            <element signature="e#3627#3628#0" expanded="true" />
-            <element signature="e#3683#3684#0" expanded="true" />
-            <element signature="e#3772#3773#0" expanded="true" />
-            <element signature="e#3827#3828#0" expanded="true" />
-            <element signature="e#4413#4414#0" expanded="true" />
-            <element signature="e#4458#4459#0" expanded="true" />
-            <element signature="e#4524#4525#0" expanded="true" />
-            <element signature="e#4578#4579#0" expanded="true" />
-            <element signature="e#5190#5191#0" expanded="true" />
-            <element signature="e#5234#5235#0" expanded="true" />
-            <element signature="e#5277#5278#0" expanded="true" />
-            <element signature="e#5309#5310#0" expanded="true" />
-            <element signature="e#5353#5354#0" expanded="true" />
-            <element signature="e#5386#5387#0" expanded="true" />
-            <element signature="e#5465#5466#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+            <element signature="e#1340#1341#0" expanded="true" />
+            <element signature="e#1409#1410#0" expanded="true" />
+            <element signature="e#1473#1474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutConstructors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="159" column="5" lean-forward="true" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
+          <folding>
+            <element signature="e#2944#2945#0" expanded="true" />
+            <element signature="e#2988#2989#0" expanded="true" />
           </folding>
         </state>
       </provider>

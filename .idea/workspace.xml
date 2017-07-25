@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f8e53ef8-4740-4c3e-9d35-49e688fc5de9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutCasting.java" afterPath="$PROJECT_DIR$/src/beginner/AboutCasting.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutConstructors.java" afterPath="$PROJECT_DIR$/src/beginner/AboutConstructors.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutEnums.java" afterPath="$PROJECT_DIR$/src/beginner/AboutEnums.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutExceptions.java" afterPath="$PROJECT_DIR$/src/beginner/AboutExceptions.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutInheritance.java" afterPath="$PROJECT_DIR$/src/beginner/AboutInheritance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutObjects.java" afterPath="$PROJECT_DIR$/src/beginner/AboutObjects.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutBitwiseOperators.java" afterPath="$PROJECT_DIR$/src/beginner/AboutBitwiseOperators.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/AboutMethodPreference.java" afterPath="$PROJECT_DIR$/src/beginner/AboutMethodPreference.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +20,8 @@
       <file leaf-file-name="AboutConstructors.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/beginner/AboutConstructors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="580">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding>
                 <element signature="e#266#267#0" expanded="true" />
                 <element signature="e#307#308#0" expanded="true" />
@@ -44,15 +40,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AboutExceptions.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AboutExceptions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/beginner/AboutExceptions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="159" column="5" lean-forward="true" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
+            <state relative-caret-position="691">
+              <caret line="159" column="5" lean-forward="false" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
               <folding>
-                <element signature="e#2944#2945#0" expanded="true" />
-                <element signature="e#2988#2989#0" expanded="true" />
+                <element signature="e#1934#1962#0" expanded="true" />
+                <element signature="e#3222#3249#0" expanded="true" />
+                <element signature="e#3314#3341#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AboutMethodPreference.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/beginner/AboutMethodPreference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-240">
+              <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+              <folding>
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#653#654#0" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+                <element signature="e#784#785#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AboutBitwiseOperators.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/beginner/AboutBitwiseOperators.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,12 +113,14 @@
         <option value="$PROJECT_DIR$/src/beginner/AboutConstructors.java" />
         <option value="$PROJECT_DIR$/src/beginner/AboutEnums.java" />
         <option value="$PROJECT_DIR$/src/beginner/AboutExceptions.java" />
+        <option value="$PROJECT_DIR$/src/beginner/AboutMethodPreference.java" />
+        <option value="$PROJECT_DIR$/src/beginner/AboutBitwiseOperators.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1943" />
-    <option name="y" value="115" />
+    <option name="x" value="195" />
+    <option name="y" value="119" />
     <option name="width" value="1400" />
     <option name="height" value="888" />
   </component>
@@ -109,8 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -158,6 +187,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -395,7 +426,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1943" y="115" width="1400" height="888" extended-state="0" />
+    <frame x="195" y="119" width="1400" height="888" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -439,6 +470,72 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutConstructors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3040">
+          <caret line="159" column="5" lean-forward="false" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
+          <folding>
+            <element signature="e#1934#1962#0" expanded="true" />
+            <element signature="e#3222#3249#0" expanded="true" />
+            <element signature="e#3314#3341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutConstructors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3040">
+          <caret line="159" column="5" lean-forward="true" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
+          <folding>
+            <element signature="e#1934#1962#0" expanded="true" />
+            <element signature="e#3222#3249#0" expanded="true" />
+            <element signature="e#3314#3341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/beginner/AboutPrimitives.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -616,8 +713,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/beginner/AboutConstructors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="580">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding>
             <element signature="e#266#267#0" expanded="true" />
             <element signature="e#307#308#0" expanded="true" />
@@ -637,12 +734,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/beginner/AboutExceptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="159" column="5" lean-forward="true" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
+        <state relative-caret-position="691">
+          <caret line="159" column="5" lean-forward="false" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
           <folding>
-            <element signature="e#2944#2945#0" expanded="true" />
-            <element signature="e#2988#2989#0" expanded="true" />
+            <element signature="e#1934#1962#0" expanded="true" />
+            <element signature="e#3222#3249#0" expanded="true" />
+            <element signature="e#3314#3341#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutMethodPreference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutBitwiseOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
